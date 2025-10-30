@@ -6,7 +6,7 @@
   ![Version](https://img.shields.io/badge/version-1.0-blue.svg)
   ![License](https://img.shields.io/badge/license-MIT-yellow.svg)
   [![Website](https://img.shields.io/badge/Website-khepridev.xyz-00C7B7?logo=google-chrome&logoColor=white)](https://khepridev.xyz/)
-  [![Follow](https://img.shields.io/badge/Follow-@Khepridev-1DA1F2?logo=x&logoColor=white)](https://twitter.com/Khepridev)
+  [![Follow](https://img.shields.io/badge/Follow-@Khepridev-1DA1F2?logo=x&logoColor=white)](https://x.com/Khepridev)
 
   A modern, full-featured webhook management platform built with Node.js, Vue.js, and PostgreSQL.
 </div>
