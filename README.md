@@ -1,10 +1,14 @@
-# AstraHook
+<div align="center">
+  <img src="logo.png" alt="AstraHook Logo" width="64" height="64">
+  
+  # AstraHook
 
-![Version](https://img.shields.io/badge/version-1.0-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-yellow.svg)
-![Follow](https://img.shields.io/badge/Follow-@Khepridev-1DA1F2?logo=x&logoColor=white)
+  ![Version](https://img.shields.io/badge/version-1.0-blue.svg)
+  ![License](https://img.shields.io/badge/license-MIT-yellow.svg)
+  ![Follow](https://img.shields.io/badge/Follow-@Khepridev-1DA1F2?logo=x&logoColor=white)
 
-A modern, full-featured webhook management platform built with Node.js, Vue.js, and PostgreSQL.
+  A modern, full-featured webhook management platform built with Node.js, Vue.js, and PostgreSQL.
+</div>
 
 ## Features
 
