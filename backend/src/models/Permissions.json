@@ -1,0 +1,31 @@
+{
+  "roles": {
+    "admin": [
+      "users.read",
+      "users.write",
+      "users.delete",
+      "webhooks.control",
+      "webhooks.own.read",
+      "webhooks.own.write",
+      "webhooks.own.delete",
+      "logs.read.all"
+    ],
+    "user": [
+      "webhooks.own.read",
+      "webhooks.own.write",
+      "webhooks.own.delete",
+      "logs.read.own"
+    ]
+  },
+  "permissions": {
+    "users.read": "View all users",
+    "users.write": "Create and update users",
+    "users.delete": "Delete users",
+    "webhooks.control": "Manage all webhooks across all users",
+    "webhooks.own.read": "View own webhooks",
+    "webhooks.own.write": "Create and update own webhooks",
+    "webhooks.own.delete": "Delete own webhooks",
+    "logs.read.all": "View all webhook logs",
+    "logs.read.own": "View own webhook logs"
+  }
+}

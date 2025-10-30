@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply transition-colors duration-200;
+  }
+  
+  body {
+    @apply bg-neutral-50 dark:bg-neutral-950 text-neutral-900 dark:text-neutral-100;
+  }
+}
+
+@layer utilities {
+  .page-enter-active,
+  .page-leave-active {
+    transition: opacity 0.3s, transform 0.3s;
+  }
+
+  .page-enter-from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  .page-leave-to {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+}
